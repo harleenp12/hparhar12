@@ -39,6 +39,11 @@ button{
     font-size: 16px; /* Font size */
     font-family: 'Courier New', Courier, monospace; /* Font */
 }
+#myButton:hover {
+    background-color: black;
+    color: white;
+}
+
 
 
 
