@@ -1,9 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Single+Ink:wght@100..900&display=swap');
+
 img {
     width: 400px;
 }
 body {
     text-align: center;
-    font-family: 'Cascadia Code';
+    font-family: 'Bitcount Single Ink';
     background: blanchedalmond;
     color: sienna;
 }
@@ -20,7 +23,14 @@ footer{
     color: #f1f1f1;
     font-size: 12px;
 }
-
+.header{
+    position: sticky;
+    top: 0;
+    padding: 10px 16px;
+    background: black;
+    color: #f1f1f1;
+    font-size: 24px;
+}
 
 
 
